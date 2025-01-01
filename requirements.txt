@@ -2,4 +2,4 @@ streamlit
 pandas
 os
 scikit-learn
-scikit-learn
+matplotlib
