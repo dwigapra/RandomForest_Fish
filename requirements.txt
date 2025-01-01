@@ -2,3 +2,5 @@ streamlit
 pickle
 pandas
 os
+scikit-learn
+scikit-learn
